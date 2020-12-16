@@ -509,7 +509,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgba(204, 75, 44, 0.7);
+  background: rgba(0, 0, 0, 0.2);
   border-radius: 0.5rem;
   transition: 0.3s;
 }
