@@ -359,10 +359,16 @@ img {
   width: 50%;
 }
 .skills__react {
-  width: 40%;
+  width: 60%;
 }
-.skills__python {
+.skills__nodejs {
   width: 50%;
+}
+.skills__expressjs {
+  width: 50%;
+}
+.skills__postgresql {
+  width: 40%;
 }
 
 /* =========Education======== */
