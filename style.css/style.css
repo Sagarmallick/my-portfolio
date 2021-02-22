@@ -353,22 +353,22 @@ img {
   width: 80%;
 }
 .skills__javascript {
-  width: 70%;
+  width: 60%;
 }
 .skills__bootstrap {
   width: 50%;
 }
 .skills__react {
-  width: 60%;
+  width: 50%;
 }
 .skills__nodejs {
-  width: 50%;
+  width: 30%;
 }
-.skills__expressjs {
+/* .skills__expressjs {
   width: 50%;
-}
+} */
 .skills__postgresql {
-  width: 40%;
+  width: 30%;
 }
 
 /* =========Education======== */
